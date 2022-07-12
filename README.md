@@ -1,15 +1,15 @@
-# Project Title
+# Health Dashboard
 
 Project description 
 
 :open_file_folder: Repo Organization
 --------------------------------
 
-    ├── src                <- Modules used in and shared by different lectures & assignments
+    ├── src                <- python modules
     │   ├── ...       
     │   └── ...            
     │
-    ├── notebooks          <- Jupyter notebooks for each lecture
+    ├── notebooks          <- Jupyter notebooks for code walk-through 
     │   ├── ...            
     │   └── ...            
     │
